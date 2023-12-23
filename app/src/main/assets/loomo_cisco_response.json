@@ -1,0 +1,199 @@
+[
+    {
+        "notificationType": "locationupdate",
+        "subscriptionName": "CMX_Api_Server_Notification_1",
+        "eventId": 26302817,
+        "locationMapHierarchy": "UiA - Campus Grimstad>Hovedbygget Grimstad>2>Coverage Area-1580288052147",
+        "locationCoordinate": {
+            "x": 215.55183,
+            "y": 175.45432,
+            "z": 0,
+            "unit": "FEET"
+        },
+        "geoCoordinate": {
+            "latitude": 58.334615682207385,
+            "longitude": 8.57612537449235,
+            "unit": "DEGREES"
+        },
+        "confidenceFactor": 32,
+        "apMacAddress": "NOT APPLICABLE",
+        "associated": false,
+        "username": "NOT APPLICABLE",
+        "ipAddress": [
+            "NOT APPLICABLE"
+        ],
+        "ssid": "NOT APPLICABLE",
+        "band": "NOT APPLICABLE",
+        "floorId": "-7050989522842025915",
+        "entity": "WIRELESS_CLIENTS",
+        "deviceId": "f4:4d:30:c3:18:fd",
+        "lastSeen": "2023-03-09T15:03:16.273+0100",
+        "mapInfo": {
+            "floorDimension": {
+                "length": 733.95624,
+                "width": 669.6476,
+                "height": 32.8084,
+                "offsetX": 0,
+                "offsetY": 0,
+                "unit": "FEET"
+            },
+            "image": {
+                "imageName": "domain_0_1619425868943.png",
+                "zoomLevel": 5,
+                "width": 3020,
+                "height": 3310,
+                "size": 3310,
+                "maxResolution": 16,
+                "colorDepth": 8
+            }
+        },
+        "statistics": {
+            "currentServerTime": "2023-03-09T15:03:16.284+0100",
+            "firstLocatedTime": "2023-03-09T14:59:34.283+0100"
+        },
+        "currentlyTracked": true,
+        "historyLogReason": "DISTANCE_CHANGE",
+        "networkStatus": "ACTIVE",
+        "dot11Status": "UNKNOWN",
+        "detectingControllers": "128.39.55.142",
+        "bytesSent": 0,
+        "bytesReceived": 0,
+        "bssid": null,
+        "containmentLevel": null,
+        "state": null,
+        "gwMacAddr": null,
+        "numOfDetectingAPs": 0,
+        "totalClients": 0,
+        "type": null,
+        "maxDetectingAPMacAddress": null,
+        "maxRssiRadioType": 0,
+        "zoneOfImpact": 0,
+        "hiddenSSID": 0,
+        "lastUpdated": null,
+        "clientMacs": null,
+        "rogueStChBy": null,
+        "rogueClChBy": null,
+        "classifiedRSSI": 0,
+        "classifiedByAP": "",
+        "className": "",
+        "classification": null,
+        "tracedWiredRogue": false,
+        "switchPortShutdown": false,
+        "deviceType": null,
+        "dutyCycle": 0,
+        "severity": 0,
+        "deviceKey": null,
+        "controllerClusterMac": null,
+        "affectedChannels": null,
+        "affectedBand": null,
+        "severityCategory": null,
+        "tagTelemetryList": null,
+        "tagBatteryInfo": null,
+        "tagVendorData": null,
+        "bleTagInfo": null,
+        "locComputeType": "RSSI",
+        "tagLastBeaconTime": null,
+        "tagLastBeaconSequenceNumber": 0,
+        "manufacturer": "Elitegroup Computer Systems Co.,Ltd.",
+        "rawLocation": {
+            "rawX": -999,
+            "rawY": -999,
+            "unit": "FEET"
+        },
+        "areaGlobalidList": [
+            240,
+            3,
+            2,
+            1,
+            362,
+            439,
+            238,
+            216
+        ],
+        "maxDetectedRssi": {
+            "apMacAddress": "f8:0b:cb:b1:56:40",
+            "band": "IEEE_802_11_B",
+            "slot": 0,
+            "rssi": -69,
+            "antennaIndex": 1,
+            "lastHeardInSeconds": 2
+        },
+        "hierarchyDetails": {
+            "campusParents": null,
+            "campus": {
+                "id": "-7050989522842025937",
+                "name": "UiA - Campus Grimstad"
+            },
+            "building": {
+                "id": "-7050989522842025917",
+                "name": "Hovedbygget Grimstad"
+            },
+            "floor": {
+                "id": "-7050989522842025915",
+                "name": "2"
+            },
+            "zones": [
+                {
+                    "id": "216",
+                    "name": "Coverage Area-1580288052147"
+                }
+            ]
+        },
+        "rssiEntries": [
+            {
+                "apMacAddress": "f8:0b:cb:b1:56:40",
+                "band": "IEEE_802_11_B",
+                "slot": 0,
+                "antennaIndex": 1,
+                "rssi": -69,
+                "lastHeardSecs": 2
+            },
+            {
+                "apMacAddress": "f8:0b:cb:b1:56:40",
+                "band": "IEEE_802_11_B",
+                "slot": 0,
+                "antennaIndex": 0,
+                "rssi": -70,
+                "lastHeardSecs": 2
+            },
+            {
+                "apMacAddress": "f8:0b:cb:b1:56:40",
+                "band": "IEEE_802_11_A",
+                "slot": 1,
+                "antennaIndex": 1,
+                "rssi": -71,
+                "lastHeardSecs": 2
+            },
+            {
+                "apMacAddress": "f8:0b:cb:b1:56:40",
+                "band": "IEEE_802_11_A",
+                "slot": 1,
+                "antennaIndex": 0,
+                "rssi": -73,
+                "lastHeardSecs": 2
+            },
+            {
+                "apMacAddress": "fc:5b:39:ce:7a:50",
+                "band": "IEEE_802_11_B",
+                "slot": 0,
+                "antennaIndex": 0,
+                "rssi": -89,
+                "lastHeardSecs": 2
+            },
+            {
+                "apMacAddress": "fc:5b:39:ce:7a:50",
+                "band": "IEEE_802_11_B",
+                "slot": 0,
+                "antennaIndex": 1,
+                "rssi": -94,
+                "lastHeardSecs": 2
+            }
+        ],
+        "guestUser": false,
+        "timestamp": 1678370596273,
+        "sourceNotification": "127.0.0.1",
+        "sourceNotificationKey": "127.0.0.1,3",
+        "notificationTime": "1678370596288",
+        "macAddress": "f4:4d:30:c3:18:fd"
+    }
+]

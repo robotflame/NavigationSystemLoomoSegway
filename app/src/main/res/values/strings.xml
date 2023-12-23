@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Loomo Navigation Assistant</string>
+    <string name="welcome_text">Where is your desired destination?</string>
+    <string name="enterRoomManuallyBtn">Enter room manually</string>
+    <string name="testNavigation">Navigating to ROOM</string>
+    <string name="cancelButtonTxt">Cancel</string>
+    <string name="backBtnTxt">Back</string>
+    <string name="destinationRoomTxt">Destination Room</string>
+    <string name="navigateBtnTxt">Navigate</string>
+</resources>
